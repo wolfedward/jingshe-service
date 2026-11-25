@@ -1,0 +1,231 @@
+{
+  "project": "东三路派出所 · 警社联动诉求服务",
+  "company": "山东合能科技有限责任公司",
+  "version": "1027基础修订版",
+  "release_date": "2026-11-17",
+  "git_prepared_date": "2026-11-25",
+  "original_delivery": {
+    "filename": "警社联动_东三路派出所_1027基础修订版_完整页面包.zip",
+    "size_bytes": 881620,
+    "sha256": "cc6e07b0b1d62f4b71db1c9fd7ffc74428a8883f647207e5dc017284c7b456a2"
+  },
+  "standalone_html_sha256": "9e9b74ddc7d7d13de2d65d1200bf69ddcf9f6046a93109aad8986769d627b838",
+  "original_file_count": 43,
+  "files": [
+    {
+      "path": "css/admin.css",
+      "size_bytes": 4813,
+      "sha256": "404b563d02b1edbdf63bda3132f32e200eed547a81e510a1b844031691159213"
+    },
+    {
+      "path": "css/app.css",
+      "size_bytes": 24322,
+      "sha256": "63880a4ea7d55625779e4e3ab1ccd9ca2c5f40ccaf34325f41694624f0b79b80"
+    },
+    {
+      "path": "css/geo-analytics.css",
+      "size_bytes": 22075,
+      "sha256": "515bde88b7c363c3bf0aa31b46f46f25dd61a55a3726c07792774aa3f5201771"
+    },
+    {
+      "path": "css/v2.css",
+      "size_bytes": 7459,
+      "sha256": "13749319818a29fd61a47ae8d62ca1b5fdc6c2af165f485372e1c8702ea8397e"
+    },
+    {
+      "path": "favicon.svg",
+      "size_bytes": 712,
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    },
+    {
+      "path": "index.html",
+      "size_bytes": 1446,
+      "sha256": "3e5f0e91114ec5a1552664b4e592cb627d974f95256441549a70453657bb6e33"
+    },
+    {
+      "path": "js/admin.js",
+      "size_bytes": 30925,
+      "sha256": "25718ba7ffd77ebf10f42f3836517d92e8450c4ff9af9681d316c2409dc4fca4"
+    },
+    {
+      "path": "js/app.js",
+      "size_bytes": 48857,
+      "sha256": "84d73f49a302cbcfc60206e08a7c028083babc89b5bcfee97ab5a9ccfd81c494"
+    },
+    {
+      "path": "js/domain.js",
+      "size_bytes": 3213,
+      "sha256": "09d6553e4684c04698d93a2a3697fd3f14845d511cfc8905c5db3d48998ea46f"
+    },
+    {
+      "path": "js/geo-analytics.js",
+      "size_bytes": 28505,
+      "sha256": "de66c0f9cf6185dd3cc693a30651a2e807db3ef4986a39c317ebf25b3108443c"
+    },
+    {
+      "path": "js/geolocation.js",
+      "size_bytes": 1080,
+      "sha256": "5143ae2f3210b014255c2d02c3e67e89deeedc569d0e4bce27719b5a84ce6711"
+    },
+    {
+      "path": "js/legacy-core.js",
+      "size_bytes": 18354,
+      "sha256": "2953c6b46afe431cb067f15b6c436d83c3bf22d93c36eb1a6129b31b684b32e5"
+    },
+    {
+      "path": "js/local-storage.js",
+      "size_bytes": 2067,
+      "sha256": "18cf329baaa4776478b68b56601ec54245651908b4c576476cbc7164b9f22e2d"
+    },
+    {
+      "path": "js/policy.js",
+      "size_bytes": 1676,
+      "sha256": "cce29ba7e9712c40026e036de78d09313bd411647b2b8ce0100b06a168061dc5"
+    },
+    {
+      "path": "js/sync-merge.js",
+      "size_bytes": 1292,
+      "sha256": "b7fb87a2b9325a24a5326b0924528e5e67f4f6f760b7e224bf4726797194b5fb"
+    },
+    {
+      "path": "js/vector-canvas.js",
+      "size_bytes": 18147,
+      "sha256": "2fc857c4a02cef32a1d4bc719d4422c57e7323557226b36eb097c406e96b92c9"
+    },
+    {
+      "path": "vendor/leaflet/LICENSE",
+      "size_bytes": 1395,
+      "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
+    },
+    {
+      "path": "vendor/leaflet/images/layers-2x.png",
+      "size_bytes": 1259,
+      "sha256": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf"
+    },
+    {
+      "path": "vendor/leaflet/images/layers.png",
+      "size_bytes": 696,
+      "sha256": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6"
+    },
+    {
+      "path": "vendor/leaflet/images/marker-icon-2x.png",
+      "size_bytes": 2464,
+      "sha256": "00179c4c1ee830d3a108412ae0d294f55776cfeb085c60129a39aa6fc4ae2528"
+    },
+    {
+      "path": "vendor/leaflet/images/marker-icon.png",
+      "size_bytes": 1466,
+      "sha256": "574c3a5cca85f4114085b6841596d62f00d7c892c7b03f28cbfa301deb1dc437"
+    },
+    {
+      "path": "vendor/leaflet/images/marker-shadow.png",
+      "size_bytes": 618,
+      "sha256": "264f5c640339f042dd729062cfc04c17f8ea0f29882b538e3848ed8f10edb4da"
+    },
+    {
+      "path": "vendor/leaflet/leaflet.css",
+      "size_bytes": 14806,
+      "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+    },
+    {
+      "path": "vendor/leaflet/leaflet.js",
+      "size_bytes": 147552,
+      "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    },
+    {
+      "path": "vendor/maplibre/LICENSE",
+      "size_bytes": 767,
+      "sha256": "eaa721ba158cbeff47ad53b1035dfc26ff744df66662c93ff715c9885197ebf3"
+    },
+    {
+      "path": "vendor/maplibre/LICENSE.txt",
+      "size_bytes": 5984,
+      "sha256": "ee5fc05a0677eaf69601d2c7db0d9ecd6cc27c3abc1d0733bc9ed34707cf8ef2"
+    },
+    {
+      "path": "vendor/maplibre/leaflet-maplibre-gl.js",
+      "size_bytes": 13069,
+      "sha256": "1c33367962e7755c1a16d1f85658fdc96b5baa36f81adfca9493174cd1b526ce"
+    },
+    {
+      "path": "vendor/maplibre/maplibre-gl.css",
+      "size_bytes": 70024,
+      "sha256": "ab1e70d59ec40465bae7e7030da2f3ccf28133fd502e62bd598eefbadfd7a732"
+    },
+    {
+      "path": "vendor/maplibre/maplibre-gl.js",
+      "size_bytes": 1056837,
+      "sha256": "45a9b07a9189ce56054c620a947ccf41e291e58c95e9b61533b740aaa65ee5cb"
+    },
+    {
+      "path": "vendor/qrcode.js",
+      "size_bytes": 56694,
+      "sha256": "18ae399f81182bc9de916e9c77b195df20cc58d6f2d55a62b085a299f1bf1780"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/@mapbox/point-geometry/LICENSE",
+      "size_bytes": 725,
+      "sha256": "0c0ede0036a425ff8b2d49341ea9aa8eccbeeae1ac4eb59874c9dd8bcf5186d3"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/@mapbox/point-geometry/index.js",
+      "size_bytes": 8555,
+      "sha256": "eabf937b8397f00ee379cbcb7ed7083fc9e088fb7ca634758fc1c376af91780a"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/@mapbox/point-geometry/package.json",
+      "size_bytes": 1004,
+      "sha256": "ab7723dbc5481c1a67260c592dc0ea02ffef5e41f45a0fa21e8d8d4e6850212f"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/@mapbox/vector-tile/LICENSE.txt",
+      "size_bytes": 1500,
+      "sha256": "5b09a507df6f21d6c2112c46dcaf2927b9dbd8b580a08b542d8ec2f9191d783d"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/@mapbox/vector-tile/index.js",
+      "size_bytes": 10326,
+      "sha256": "a65eab53263fd6383e5fbb4b973dec47ec5fd71a109e1d28aba0c4e1b54a039d"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/@mapbox/vector-tile/package.json",
+      "size_bytes": 822,
+      "sha256": "e2a574985d771ced03b45721dd6819ac47056a872d9628dc76a93369dbd940c4"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/pbf/LICENSE",
+      "size_bytes": 1467,
+      "sha256": "fdf1d5279107d760c7df8c6edab1faab2b72ba17528273a8b417b08f1e12ebbe"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/pbf/index.js",
+      "size_bytes": 24639,
+      "sha256": "f321bd4934fd67cea4a5be18eece9ff576e3db0cbc2915a9fb1bd7ebbcd3422a"
+    },
+    {
+      "path": "vendor/vector-canvas/packages/pbf/package.json",
+      "size_bytes": 1548,
+      "sha256": "81c8daf6e5cec0fdf365f82582e7b898e018cb51411e465642897bbb4cdd3c10"
+    },
+    {
+      "path": "vendor/vector-canvas/renderer.js",
+      "size_bytes": 10617,
+      "sha256": "9e19d98d58a20865ed3384edf51b40471877f486b2b589ef6183bc8dec70c104"
+    },
+    {
+      "path": "使用说明.txt",
+      "size_bytes": 5099,
+      "sha256": "4659b2743d28db926dc7a3fd0f44ea0e1fb41ae944bc5779915011f651d6383a"
+    },
+    {
+      "path": "单文件版.html",
+      "size_bytes": 1596034,
+      "sha256": "9e9b74ddc7d7d13de2d65d1200bf69ddcf9f6046a93109aad8986769d627b838"
+    },
+    {
+      "path": "验证说明.txt",
+      "size_bytes": 2214,
+      "sha256": "9c8282b9bc3a3ba52cca4366895bf7ea9865352267dad9ca8ef49284db4fdd23"
+    }
+  ]
+}

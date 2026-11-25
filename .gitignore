@@ -1,0 +1,24 @@
+# 本地工具与依赖缓存
+node_modules/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 运行环境与本地凭据
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 本地运行数据与临时输出
+*.log
+*.sqlite
+*.sqlite3
+*.db
+backups/
+tmp/
+.vscode/
+.idea/
